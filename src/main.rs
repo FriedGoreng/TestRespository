@@ -8,7 +8,8 @@ macro_rules! say_jimston {
 
 macro_rules! say_jumanji {
     () => {
-        println!("Jumanji Jumanji Jumanji SEEDS")
+        println!("kodok man bisa lompat");
+        println!("Jumanji Jumanji Jumanji SEEDS");
     };
 }
 
