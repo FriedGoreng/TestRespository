@@ -6,6 +6,12 @@ macro_rules! say_jimston {
     };
 }
 
+macro_rules! say_jumanji {
+    () => {
+        println!("Jumanji")
+    };
+}
+
 
 fn main() {
     let mut mutable_value: i8 = 0;
