@@ -12,12 +12,11 @@ macro_rules! say_jumanji {
     };
 }
 
-
 fn main() {
     let mut mutable_value: i8 = 0;
     mutable_value += 1;
     match mutable_value {
         1 => say_jimston!(),
-        _ => println!("Darn Diddly")        
+        _ => println!("Darn Diddly Seung Jae Lee")        
     };
 }
