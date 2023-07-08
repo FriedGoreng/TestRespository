@@ -8,11 +8,13 @@ macro_rules! say_jimston {
 
 macro_rules! say_jumanji {
     () => {
-        println!("kodak man bisa lompat")
+        println!("kodok man bisa lompat")
+        println!("Jumanji Jumanji Jumanji SEEDS")
     };
 }
 
 fn main() {
+    say_jumanji!();
     let mut mutable_value: i8 = 0;
     mutable_value += 1;
     match mutable_value {
