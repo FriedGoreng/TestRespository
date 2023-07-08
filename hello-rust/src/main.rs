@@ -2,7 +2,7 @@
 
 macro_rules! say_jimston {
     () => {
-        println!("Jimston!")
+        println!("Jimston Dylan!")
     };
 }
 
