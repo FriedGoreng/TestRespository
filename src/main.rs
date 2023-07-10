@@ -10,6 +10,7 @@ macro_rules! say_jumanji {
     () => {
         println!("kodok man bisa lompat");
         println!("Jumanji Jumanji Jumanji SEEDS");
+        println!("Gwe mau makan tikus goreng");
     };
 }
 
